@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2018"
 
 [dependencies]
-bdk = { version = "0.9.0", default-features = false, features = ["rpc"] }
+bitcoincore-rpc = "0.13.0"
